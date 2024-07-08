@@ -1,2 +1,2 @@
-20240630
-Doczilla Multifix MVP1.1
+20240708
+Doczilla Multifix MVP1.2
